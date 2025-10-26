@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Filmmodu",
+    "description": "Filmmodu film izleme sitesi için Cloudstream eklentisi.",
+    "version": 1,
+    "url": "https://github.com/jssb1971/jssb71a/raw/main/Filmmodu/build/Filmmodu.cs3",
+    "language": "tr",
+    "icon": "https://www.filmmodu.vip/favicon.ico"
+  }
+]
