@@ -1,0 +1,9 @@
+{
+  "name": "Filmmodu",
+  "description": "Filmmodu.vip kaynaklı içerikler",
+  "author": "jssb1971",
+  "version": 1,
+  "language": "tr",
+  "url": "https://www.filmmodu.vip/",
+  "source": "FilmmoduPlugin.kt"
+}
